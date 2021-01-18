@@ -1,0 +1,11 @@
+/*Reset*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  min-width: 300px;
+  max-width: 1980px;
+  margin: 0 auto;
+}
